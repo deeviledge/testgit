@@ -7,12 +7,7 @@ import pygame.mixer
 import random
 
 alarm_on_volt = 2.0
-#効果音の定義
-#alarm_music = "home/pi/okumura/drop.mp3"#◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇変更点
-sound1="home/pi/okumura/drop.wav"
-sound2="home/pi/okumura/bike-pass3.wav3"
-#sound3=".mp3"
-play_time = 7 # 再生時間◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇変更点
+play_time = 6 # 再生時間◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇変更点
 play_volume = 100
 
 

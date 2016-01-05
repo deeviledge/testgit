@@ -8,6 +8,7 @@ import random
 
 alarm_on_volt = 2.0
 play_time = 6 # 再生時間◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇変更点
+
 play_volume = 100
 
 
